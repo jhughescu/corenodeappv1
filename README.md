@@ -1,6 +1,6 @@
-# susgame2.0
-Second version of the Sustainability game, now with multiple sessions
+# core node app v1
+Basic node.js build for app development.
 
-MongoDB database funcitionality added to enable multiple game sessions and session restore capability.
+Includes basic functionality for multi-client app dev with database support.
 
-Initial build will consist of system-level session management, game functionality will be added later.
+Create .env file in order to develop/deploy.
