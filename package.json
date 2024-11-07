@@ -1,9 +1,9 @@
 {
-    "name": "dbdev",
+    "name": "ADD_NAME",
     "version": "1.0.0",
-    "description": "Sustainability game",
+    "description": "ADD_DESCRIPTION",
     "keywords": [],
-    "author": "",
+    "author": "John Hughes",
     "license": "ISC",
     "dependencies": {
         "chalk": "^4.1.2",
@@ -29,17 +29,16 @@
     },
     "scripts": {
         "generate-build-info": "node generate_build_info.js",
-        "dev1": "nodemon --exec \"npm run node\" app.js",
         "dev": "nodemon app.js",
         "start": "node app.js"
     },
     "main": "app.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jhughescu/susgame2.0.git"
+        "url": "git+https://github.com/jhughescu/corenodeappv1.git"
     },
     "bugs": {
-        "url": "https://github.com/jhughescu/susgame2.0/issues"
+        "url": "https://github.com/jhughescu/corenodeappv1/issues"
     },
-    "homepage": "https://github.com/jhughescu/susgame2.0#readme"
+    "homepage": "https://github.com/jhughescu/corenodeappv1#readme"
 }
